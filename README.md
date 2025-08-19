@@ -13,6 +13,15 @@ A simple Tic Tac Toe game with:
    git clone https://github.com/<your-username>/tic-tac-toe-python.git
    cd tic-tac-toe-python 
 
+How it works:
+
+A 3x3 grid of buttons represents the board.
+
+Players take turns clicking to place "X" or "O".
+
+When someone wins or it’s a draw, a popup message appears.
+
+You can restart the game by clicking the Reset button.
    
 ---
 
